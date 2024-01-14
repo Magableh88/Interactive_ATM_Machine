@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Cheque
+comment0.text=\n\ Cheque\ account\ allows\ for\ withdrawal\ and\ depositing\n\ @author\ (Mohammad\ Makableh\ -\ 202130654)\n
+comment1.params=
+comment1.target=Cheque()
+comment2.params=name
+comment2.target=Cheque(java.lang.String)
+comment3.params=m
+comment3.target=void\ withdraw(float)
+numComments=4

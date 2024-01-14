@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Bank
+comment0.text=\n\ Bank\ class\ that\ keeps\ a\ list\ of\ all\ accounts\ made\n\n\ @author\ (Mohammad\ Makableh\ -\ 202130654)\n
+comment1.params=
+comment1.target=Bank()
+comment2.params=name
+comment2.target=Bank(java.lang.String)
+comment3.params=a
+comment3.target=void\ add(Account)
+comment4.params=
+comment4.target=void\ display()
+comment5.params=name
+comment5.target=void\ display(java.lang.String)
+numComments=6

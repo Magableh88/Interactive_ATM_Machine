@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Cheque
+comment0.text=\n\ Chequing\ account\ class.\n\n\ @author\ (Mohammad\ Makableh)\n\ @version\ (V\ Final)\n
+comment1.params=
+comment1.target=Cheque()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Cheque\n
+comment2.params=user
+comment2.target=Cheque(java.lang.String)
+comment3.params=m
+comment3.target=void\ withdraw(float)
+comment3.text=\n\ Withdraw\ amount\ of\ money\n\n\ @param\ \ m\ -\ the\ amount\ to\ withdraw\n
+numComments=4
